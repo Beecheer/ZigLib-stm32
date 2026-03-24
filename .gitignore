@@ -2,3 +2,4 @@
 /.zig-cache/
 /.cache/
 /.clangd
+/stm32_hal/cmake-build-debug/
