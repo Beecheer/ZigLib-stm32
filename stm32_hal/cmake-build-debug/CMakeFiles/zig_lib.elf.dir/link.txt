@@ -1,0 +1,1 @@
+D:\MinGW\arm-gnu-toolchain-14.2.rel1-mingw-w64-i686-arm-none-eabi\bin\arm-none-eabi-gcc.exe -g -Wl,-gc-sections,--print-memory-usage,-Map=D:/Dev/EGAdapter/zig_lib/stm32_hal/cmake-build-debug/zig_lib.map -mcpu=cortex-m7 -mthumb -mthumb-interwork -T D:/Dev/EGAdapter/zig_lib/stm32_hal/STM32H723VGTX_FLASH.ld @CMakeFiles\zig_lib.elf.dir\objects1.rsp -o zig_lib.elf

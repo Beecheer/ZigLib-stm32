@@ -1,0 +1,3 @@
+D:/Dev/EGAdapter/zig_lib/stm32_hal/cmake-build-debug/CMakeFiles/zig_lib.elf.dir
+D:/Dev/EGAdapter/zig_lib/stm32_hal/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Dev/EGAdapter/zig_lib/stm32_hal/cmake-build-debug/CMakeFiles/rebuild_cache.dir
